@@ -1,11 +1,12 @@
-def solution(N):
+def solution(n):
     max_current_number = 0
-    list_N = list(str(N))
-    array_size = len(str(N))
+    list_n = list(str(n))
+    array_size = len(list_n)
 
     for i in range(array_size):
-        if list_N[i] == "5":
-            delete_list = list_N.copy()
+
+        if list_n[i] == "5":
+            delete_list = list_n.copy()
             delete_list.pop(i)
             after_delete = int("".join(delete_list))
             if max_current_number < after_delete:
