@@ -8,8 +8,10 @@ Examples:
 2. Given N = -5859, the function should return -589
 
 Screenshots:
-![Zrzut ekranu 2021-05-31 o 20 53 50](https://user-images.githubusercontent.com/56914063/120231767-6acf2800-c252-11eb-8e1f-9d3fdd82a0d0.png)
-![Zrzut ekranu 2021-05-31 o 20 54 29](https://user-images.githubusercontent.com/56914063/120231773-6dca1880-c252-11eb-9648-11b45e860d46.png)
+![Zrzut ekranu 2021-06-22 o 19 24 34](https://user-images.githubusercontent.com/56914063/122971622-86c87400-d38f-11eb-9d6c-ddd5b5f0c3bf.png)
+![Zrzut ekranu 2021-06-22 o 19 26 10](https://user-images.githubusercontent.com/56914063/122971790-bbd4c680-d38f-11eb-9d7b-e740d72ae8ee.png)
+
+
 
 
 
