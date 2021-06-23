@@ -1,5 +1,9 @@
-def solution(n):
+import decimal
+
+
+def solution_one(n):
     max_current_number = 0
+    n = decimal.Decimal(n)
     list_n = list(str(n))
     array_size = len(list_n)
 
@@ -17,4 +21,4 @@ def solution(n):
     print(max_current_number)
 
 
-solution(-5859)
+solution_one(15958)
