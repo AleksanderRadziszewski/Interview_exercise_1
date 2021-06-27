@@ -20,10 +20,10 @@ Screenshots:
 
 ## 2)solution version two
 
-### a) Positive "n" argument
+### a) positive "n" argument
 ![Zrzut ekranu 2021-06-27 o 21 24 03](https://user-images.githubusercontent.com/56914063/123556940-4b161b80-d78e-11eb-9906-766521f1b5c8.png)
 
-### b) Negative "n" argument
+### b) negative "n" argument
 ![Zrzut ekranu 2021-06-27 o 21 26 38](https://user-images.githubusercontent.com/56914063/123556959-68e38080-d78e-11eb-9c5e-d57b42e1c496.png)
 
 
